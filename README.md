@@ -5,13 +5,13 @@ For 2018, there will be two events: DSA 2018 Nyeri in Kenya, May 31st to June 8t
 
 This year's speakers and instructors include:
 
-Dina Machuve, Nelson Mandela African Institute of Science and Technology
-Ernest Mwebaze, Makerere University
-Jan Jongboom, ARM
-Kathleen Siminyu, Africa's Talking
-Neil Lawrence, Amazon and University of Sheffield
-Megan Yates, Ixio Analytics
-Billy Okal, Voyage
-Timnit Gebru, Microsoft Research
-Tom Dietterich, Oregon State University
-Max Welling, University of Amsterdam
+- Dina Machuve, Nelson Mandela African Institute of Science and Technology
+- Ernest Mwebaze, Makerere University
+- Jan Jongboom, ARM
+- Kathleen Siminyu, Africa's Talking
+- Neil Lawrence, Amazon and University of Sheffield
+- Megan Yates, Ixio Analytics
+- Billy Okal, Voyage
+- Timnit Gebru, Microsoft Research
+- Tom Dietterich, Oregon State University
+- Max Welling, University of Amsterdam
